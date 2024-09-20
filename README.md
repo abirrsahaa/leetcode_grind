@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abirrsahaa/leetcode_grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/0463-island-perimeter) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/abirrsahaa/leetcode_grind/tree/master/0441-arranging-coins) |
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/abirrsahaa/leetcode_grind/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abirrsahaa/leetcode_grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0680-valid-palindrome-ii) |
