@@ -1,31 +1,29 @@
 class Solution {
 public:
     int minCost(string colors, vector<int>& neededTime) {
-
+        if(colors.length()==1)return 0; //as there are no consecutive color so no need to remove 
+        int prev=0;
+        int curr=1;
         int time=0;
-        stack<pair<char,int>>abir;
-        for(int i=0;i<colors.length();i++){
-            if(abir.empty())abir.push({colors[i],i});
+        while(curr<colors.length()){
+            if(colors[prev]!=colors[curr]){
+                prev=curr;
+                curr++;
+            }
             else{
-                auto pehla=abir.top();
-                char element=pehla.first;
-                int index=pehla.second;
-                if(colors[i]!=element)abir.push({colors[i],i});
-                else{
-                    // 2 cases either mera wala zyada time kheyga 
-                    if(neededTime[index]>neededTime[i]){
-                        time+=neededTime[i];
-                    }else{
-                        abir.pop();
-                        time+=neededTime[index];
-                        abir.push({colors[i],i});
-                    }
-                    // ya fir jo naya hai woh 
+                if(neededTime[prev]<neededTime[curr]){
+                    time+=neededTime[prev];
+                    prev=curr;
+                    curr++;
                 }
-
+                else{
+                    time+=neededTime[curr];
+                    curr++;
+                }
             }
         }
         return time;
+
         
     }
 };
