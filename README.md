@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/0463-island-perimeter) |
+| [0941-sort-array-by-parity](https://github.com/abirrsahaa/leetcode_grind/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/abirrsahaa/leetcode_grind/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0215-kth-largest-element-in-an-array) |
+| [0941-sort-array-by-parity](https://github.com/abirrsahaa/leetcode_grind/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0680-valid-palindrome-ii) |
+| [0941-sort-array-by-parity](https://github.com/abirrsahaa/leetcode_grind/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/abirrsahaa/leetcode_grind/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
