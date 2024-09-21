@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/abirrsahaa/leetcode_grind/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Breadth-First Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0680-valid-palindrome-ii) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Prefix Sum
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/abirrsahaa/leetcode_grind/tree/master/1894-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+## Counting
+|  |
+| ------- |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 <!---LeetCode Topics End-->
