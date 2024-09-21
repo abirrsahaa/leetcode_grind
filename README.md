@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+## Sliding Window
+|  |
+| ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
