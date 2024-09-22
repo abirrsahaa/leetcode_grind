@@ -18,6 +18,7 @@ public:
         while (i <= j) {
             // If the sum of the smallest and largest element is too large, move the right pointer
             if (nums[i] + nums[j] > target) {
+                if(nums[j]*2<=target)count++;
                 j--;
             } else {
                 // Otherwise, count all subsequences formed by nums[i] and any combination of elements between i and j
