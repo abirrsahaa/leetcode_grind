@@ -69,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/abirrsahaa/leetcode_grind/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/abirrsahaa/leetcode_grind/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/abirrsahaa/leetcode_grind/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/abirrsahaa/leetcode_grind/tree/master/0941-sort-array-by-parity) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/abirrsahaa/leetcode_grind/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/abirrsahaa/leetcode_grind/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abirrsahaa/leetcode_grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0283-move-zeroes) |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/abirrsahaa/leetcode_grind/tree/master/0874-backspace-string-compare) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abirrsahaa/leetcode_grind/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abirrsahaa/leetcode_grind/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
