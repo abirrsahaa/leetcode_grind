@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abirrsahaa/leetcode_grind/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/abirrsahaa/leetcode_grind/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/abirrsahaa/leetcode_grind/tree/master/0941-sort-array-by-parity) |
+| [0985-bag-of-tokens](https://github.com/abirrsahaa/leetcode_grind/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/abirrsahaa/leetcode_grind/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abirrsahaa/leetcode_grind/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/abirrsahaa/leetcode_grind/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/abirrsahaa/leetcode_grind/tree/master/0985-bag-of-tokens) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abirrsahaa/leetcode_grind/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abirrsahaa/leetcode_grind/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/abirrsahaa/leetcode_grind/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/abirrsahaa/leetcode_grind/tree/master/0941-sort-array-by-parity) |
+| [0985-bag-of-tokens](https://github.com/abirrsahaa/leetcode_grind/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abirrsahaa/leetcode_grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/abirrsahaa/leetcode_grind/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/abirrsahaa/leetcode_grind/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/abirrsahaa/leetcode_grind/tree/master/0941-sort-array-by-parity) |
+| [0985-bag-of-tokens](https://github.com/abirrsahaa/leetcode_grind/tree/master/0985-bag-of-tokens) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abirrsahaa/leetcode_grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/abirrsahaa/leetcode_grind/tree/master/1894-merge-strings-alternately) |
 ## String
