@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/abirrsahaa/leetcode_grind/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abirrsahaa/leetcode_grind/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/abirrsahaa/leetcode_grind/tree/master/0076-minimum-window-substring) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Counting
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/abirrsahaa/leetcode_grind/tree/master/0076-minimum-window-substring) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Stack
 |  |
