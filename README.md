@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abirrsahaa/leetcode_grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Breadth-First Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/abirrsahaa/leetcode_grind/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/abirrsahaa/leetcode_grind/tree/master/0658-find-k-closest-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abirrsahaa/leetcode_grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Interactive
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/abirrsahaa/leetcode_grind/tree/master/0076-minimum-window-substring) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Counting
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/abirrsahaa/leetcode_grind/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/abirrsahaa/leetcode_grind/tree/master/0658-find-k-closest-elements) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abirrsahaa/leetcode_grind/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Stack
