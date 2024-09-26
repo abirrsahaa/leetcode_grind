@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abirrsahaa/leetcode_grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abirrsahaa/leetcode_grind/tree/master/0658-find-k-closest-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abirrsahaa/leetcode_grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abirrsahaa/leetcode_grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abirrsahaa/leetcode_grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abirrsahaa/leetcode_grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abirrsahaa/leetcode_grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/abirrsahaa/leetcode_grind/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/abirrsahaa/leetcode_grind/tree/master/1894-merge-strings-alternately) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abirrsahaa/leetcode_grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
