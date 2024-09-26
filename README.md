@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/abirrsahaa/leetcode_grind/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/abirrsahaa/leetcode_grind/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abirrsahaa/leetcode_grind/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/0344-reverse-string) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/abirrsahaa/leetcode_grind/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/abirrsahaa/leetcode_grind/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/abirrsahaa/leetcode_grind/tree/master/0937-online-stock-span) |
 ## Simulation
