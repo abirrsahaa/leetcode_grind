@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/abirrsahaa/leetcode_grind/tree/master/0874-backspace-string-compare) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/abirrsahaa/leetcode_grind/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/abirrsahaa/leetcode_grind/tree/master/1894-merge-strings-alternately) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/abirrsahaa/leetcode_grind/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/abirrsahaa/leetcode_grind/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/abirrsahaa/leetcode_grind/tree/master/0937-online-stock-span) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
 | ------- |
