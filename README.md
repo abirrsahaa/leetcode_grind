@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/abirrsahaa/leetcode_grind/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/abirrsahaa/leetcode_grind/tree/master/0937-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -198,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/abirrsahaa/leetcode_grind/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/abirrsahaa/leetcode_grind/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/abirrsahaa/leetcode_grind/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/abirrsahaa/leetcode_grind/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
