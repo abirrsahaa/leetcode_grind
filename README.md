@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/abirrsahaa/leetcode_grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abirrsahaa/leetcode_grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0215-kth-largest-element-in-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/abirrsahaa/leetcode_grind/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/abirrsahaa/leetcode_grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/abirrsahaa/leetcode_grind/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/abirrsahaa/leetcode_grind/tree/master/0874-backspace-string-compare) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/abirrsahaa/leetcode_grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0883-car-fleet](https://github.com/abirrsahaa/leetcode_grind/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/abirrsahaa/leetcode_grind/tree/master/0937-online-stock-span) |
 ## Data Stream
