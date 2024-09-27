@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abirrsahaa/leetcode_grind/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/0463-island-perimeter) |
 | [0658-find-k-closest-elements](https://github.com/abirrsahaa/leetcode_grind/tree/master/0658-find-k-closest-elements) |
+| [0735-asteroid-collision](https://github.com/abirrsahaa/leetcode_grind/tree/master/0735-asteroid-collision) |
 | [0917-boats-to-save-people](https://github.com/abirrsahaa/leetcode_grind/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/abirrsahaa/leetcode_grind/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/abirrsahaa/leetcode_grind/tree/master/0985-bag-of-tokens) |
@@ -187,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/abirrsahaa/leetcode_grind/tree/master/0071-simplify-path) |
+| [0735-asteroid-collision](https://github.com/abirrsahaa/leetcode_grind/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/abirrsahaa/leetcode_grind/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/abirrsahaa/leetcode_grind/tree/master/0937-online-stock-span) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/abirrsahaa/leetcode_grind/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/abirrsahaa/leetcode_grind/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
