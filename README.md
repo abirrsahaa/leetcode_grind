@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/0463-island-perimeter) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/0463-island-perimeter) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,4 +233,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/0394-decode-string) |
+## Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
