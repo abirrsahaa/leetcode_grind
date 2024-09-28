@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/0463-island-perimeter) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abirrsahaa/leetcode_grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/0463-island-perimeter) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abirrsahaa/leetcode_grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abirrsahaa/leetcode_grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -245,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/abirrsahaa/leetcode_grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
