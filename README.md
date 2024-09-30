@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/abirrsahaa/leetcode_grind/tree/master/0441-arranging-coins) |
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
+| [1033-broken-calculator](https://github.com/abirrsahaa/leetcode_grind/tree/master/1033-broken-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/abirrsahaa/leetcode_grind/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/abirrsahaa/leetcode_grind/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/abirrsahaa/leetcode_grind/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/abirrsahaa/leetcode_grind/tree/master/1252-break-a-palindrome) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
