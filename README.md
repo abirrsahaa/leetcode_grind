@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/0463-island-perimeter) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/abirrsahaa/leetcode_grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abirrsahaa/leetcode_grind/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/abirrsahaa/leetcode_grind/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/0463-island-perimeter) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/abirrsahaa/leetcode_grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abirrsahaa/leetcode_grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Two Pointers
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abirrsahaa/leetcode_grind/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/abirrsahaa/leetcode_grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abirrsahaa/leetcode_grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abirrsahaa/leetcode_grind/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/abirrsahaa/leetcode_grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abirrsahaa/leetcode_grind/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
