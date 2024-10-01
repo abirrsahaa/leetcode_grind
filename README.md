@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2487-optimal-partition-of-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/2487-optimal-partition-of-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/abirrsahaa/leetcode_grind/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/abirrsahaa/leetcode_grind/tree/master/1894-merge-strings-alternately) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abirrsahaa/leetcode_grind/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2487-optimal-partition-of-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/2487-optimal-partition-of-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2487-optimal-partition-of-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/2487-optimal-partition-of-string) |
 ## Counting
 |  |
 | ------- |
