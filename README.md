@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abirrsahaa/leetcode_grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1961-maximum-ice-cream-bars](https://github.com/abirrsahaa/leetcode_grind/tree/master/1961-maximum-ice-cream-bars) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/abirrsahaa/leetcode_grind/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1961-maximum-ice-cream-bars](https://github.com/abirrsahaa/leetcode_grind/tree/master/1961-maximum-ice-cream-bars) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abirrsahaa/leetcode_grind/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abirrsahaa/leetcode_grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1961-maximum-ice-cream-bars](https://github.com/abirrsahaa/leetcode_grind/tree/master/1961-maximum-ice-cream-bars) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -276,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abirrsahaa/leetcode_grind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abirrsahaa/leetcode_grind/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/abirrsahaa/leetcode_grind/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
