@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abirrsahaa/leetcode_grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Breadth-First Search
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abirrsahaa/leetcode_grind/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abirrsahaa/leetcode_grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
