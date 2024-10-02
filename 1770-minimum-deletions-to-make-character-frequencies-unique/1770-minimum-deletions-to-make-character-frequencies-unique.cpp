@@ -5,7 +5,7 @@ public:
         // i can count the count of unique characters
         // mantain a set to keep track of count
         sort(s.begin(),s.end());
-        set<int>mpp;
+        unordered_set<int>mpp;
         int count=1;
         int deleted=0;
         for(int i=1;i<s.length();i++){
