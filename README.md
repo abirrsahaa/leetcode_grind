@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abirrsahaa/leetcode_grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/abirrsahaa/leetcode_grind/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Breadth-First Search
 |  |
 | ------- |
