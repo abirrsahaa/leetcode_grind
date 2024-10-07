@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1961-maximum-ice-cream-bars](https://github.com/abirrsahaa/leetcode_grind/tree/master/1961-maximum-ice-cream-bars) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/abirrsahaa/leetcode_grind/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/abirrsahaa/leetcode_grind/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1961-maximum-ice-cream-bars](https://github.com/abirrsahaa/leetcode_grind/tree/master/1961-maximum-ice-cream-bars) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abirrsahaa/leetcode_grind/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/abirrsahaa/leetcode_grind/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abirrsahaa/leetcode_grind/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/abirrsahaa/leetcode_grind/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1961-maximum-ice-cream-bars](https://github.com/abirrsahaa/leetcode_grind/tree/master/1961-maximum-ice-cream-bars) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/abirrsahaa/leetcode_grind/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
