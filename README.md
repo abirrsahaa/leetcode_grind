@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/abirrsahaa/leetcode_grind/tree/master/0441-arranging-coins) |
 | [1014-k-closest-points-to-origin](https://github.com/abirrsahaa/leetcode_grind/tree/master/1014-k-closest-points-to-origin) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/0070-climbing-stairs) |
 | [0337-house-robber-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/abirrsahaa/leetcode_grind/tree/master/1961-maximum-ice-cream-bars) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
