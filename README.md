@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abirrsahaa/leetcode_grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abirrsahaa/leetcode_grind/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/abirrsahaa/leetcode_grind/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2487-optimal-partition-of-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/2487-optimal-partition-of-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/abirrsahaa/leetcode_grind/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -223,11 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2487-optimal-partition-of-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/2487-optimal-partition-of-string) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/abirrsahaa/leetcode_grind/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Counting
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/abirrsahaa/leetcode_grind/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Sliding Window
 |  |
 | ------- |
