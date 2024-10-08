@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abirrsahaa/leetcode_grind/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/abirrsahaa/leetcode_grind/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -116,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/abirrsahaa/leetcode_grind/tree/master/2487-optimal-partition-of-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/abirrsahaa/leetcode_grind/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/abirrsahaa/leetcode_grind/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/abirrsahaa/leetcode_grind/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abirrsahaa/leetcode_grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
