@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/abirrsahaa/leetcode_grind/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/abirrsahaa/leetcode_grind/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abirrsahaa/leetcode_grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abirrsahaa/leetcode_grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0283-move-zeroes) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/abirrsahaa/leetcode_grind/tree/master/0076-minimum-window-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abirrsahaa/leetcode_grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/abirrsahaa/leetcode_grind/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/abirrsahaa/leetcode_grind/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abirrsahaa/leetcode_grind/tree/master/0160-intersection-of-two-linked-lists) |
 ## Merge Sort
 |  |
 | ------- |
