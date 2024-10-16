@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abirrsahaa/leetcode_grind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/abirrsahaa/leetcode_grind/tree/master/0441-arranging-coins) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abirrsahaa/leetcode_grind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/0070-climbing-stairs) |
 | [0337-house-robber-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/abirrsahaa/leetcode_grind/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abirrsahaa/leetcode_grind/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
