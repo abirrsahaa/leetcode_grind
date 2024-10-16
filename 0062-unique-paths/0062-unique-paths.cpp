@@ -42,12 +42,36 @@ public:
         return dp[row][col];
     }
 
+    // now coming to space optimizations
+
+    int spaceoptimization(int row,int col){
+        // vector<vector<int>>dp(row+1,vector<int>(col+1,0));
+        vector<int>prev(col+1,1);
+        
+        // i am fucking up here in the base case
+        
+
+        for(int i=1;i<=row;i++){
+            vector<int>dp(col+1,0);
+            dp[0]=1;
+            for(int j=1;j<=col;j++){
+                // if(j==0)dp[i][j]=dp[i-1][j];
+                dp[j]=prev[j]+dp[j-1];
+            }
+            prev=dp;
+        }
+
+        return prev[col];
+    }
+
+
     int uniquePaths(int m, int n) {
 
         // return helper(m-1,n-1);
         vector<vector<int>>dp(m+1,vector<int>(n+1,-1));
         // return memo(m-1,n-1,dp);
-        return tabulation(m-1,n-1);
+        // return tabulation(m-1,n-1);
+        return spaceoptimization(m-1,n-1);
         
     }
 };
