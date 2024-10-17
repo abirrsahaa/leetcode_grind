@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abirrsahaa/leetcode_grind/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/abirrsahaa/leetcode_grind/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/abirrsahaa/leetcode_grind/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abirrsahaa/leetcode_grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/abirrsahaa/leetcode_grind/tree/master/0120-triangle) |
 | [0337-house-robber-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
