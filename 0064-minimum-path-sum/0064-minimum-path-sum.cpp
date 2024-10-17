@@ -1,43 +1,34 @@
 class Solution {
 public:
-    int solveusingrec(vector<vector<int>>& grid,int curr_m,int curr_n){
-        // base case 
-        if(curr_m==0&&curr_n==0)return grid[0][0];
-        if(curr_m<0)return INT_MAX;
-        if(curr_n<0)return INT_MAX;
+    int helper(vector<vector<int>>&grid,int row,int col,vector<vector<int>>&dp){
+        if(row<0 || col<0)return INT_MAX;
+        if(row==0&&col==0)return grid[0][0];
 
+        if(dp[row][col]!=-1)return dp[row][col];
 
-        int left=INT_MAX,down=INT_MAX;
-        int ansl=solveusingrec(grid,curr_m-1,curr_n);
-        if(ansl!=INT_MAX)left=grid[curr_m][curr_n]+ansl;
-        int ansd=solveusingrec(grid,curr_m,curr_n-1);
-        if(ansd!=INT_MAX)down=grid[curr_m][curr_n]+ansd;
+        // for every cell i have 2 options either to take right or take down
+        int left=helper(grid,row,col-1,dp);
+        if(left!=INT_MAX)left=left+grid[row][col];
+        int up=helper(grid,row-1,col,dp);
+        if(up!=INT_MAX)up=up+grid[row][col];
 
+        return dp[row][col]= min(left,up);
 
-        return min(left,down);
-    }
-
-      int solveusingmemo(vector<vector<int>>& grid,int curr_m,int curr_n,vector<vector<int>>&dp){
-        // base case 
-        if(curr_m==0&&curr_n==0)return grid[0][0];
-        if(curr_m<0)return INT_MAX;
-        if(curr_n<0)return INT_MAX;
-        if(dp[curr_m][curr_n]!=-1)return dp[curr_m][curr_n];
-
-
-        int left=INT_MAX,down=INT_MAX;
-        int ansl=solveusingmemo(grid,curr_m-1,curr_n,dp);
-        if(ansl!=INT_MAX)left=grid[curr_m][curr_n]+ansl;
-        int ansd=solveusingmemo(grid,curr_m,curr_n-1,dp);
-        if(ansd!=INT_MAX)down=grid[curr_m][curr_n]+ansd;
-
-
-        dp[curr_m][curr_n]= min(left,down);
-        return dp[curr_m][curr_n];
     }
     int minPathSum(vector<vector<int>>& grid) {
-        // return solveusingrec(grid,grid.size()-1,grid[0].size()-1);
-        vector<vector<int>>dp(grid.size()+1,vector<int>(grid[0].size()+1,-1));
-        return solveusingmemo(grid,grid.size()-1,grid[0].size()-1,dp);
+
+        int m=grid.size();
+        int n=grid[0].size();
+
+
+        vector<vector<int>>dp(m+1,vector<int>(n+1,-1));
+
+
+        return helper(grid,m-1,n-1,dp);
+
+
+
+
+        
     }
 };
