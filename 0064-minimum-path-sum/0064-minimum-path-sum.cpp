@@ -15,6 +15,40 @@ public:
         return dp[row][col]= min(left,up);
 
     }
+
+    // lets bring it down to what we know as tabular version of it 
+    int tabular(vector<vector<int>>&grid,int row,int col){
+        vector<vector<int>>dp(row+1,vector<int>(col+1,0));
+
+        // lets come down to the main part which is the state diagram/equation
+        // dp[row][col]=min sum to reach this cell form 0,0 
+
+        dp[0][0]=grid[0][0];
+        for(int i=1;i<=row;i++){
+            dp[i][0]=dp[i-1][0]+grid[i][0];
+        }
+
+        for(int i=1;i<=col;i++){
+            dp[0][i]=dp[0][i-1]+grid[0][i];
+        }
+
+        // now that i have initialized the array it is time to set up the loop 
+        for(int i=1;i<=row;i++){
+            for(int j=1;j<=col;j++){
+                // now my meoised code will come here 
+                int left=dp[i][j-1]+grid[i][j];
+                int up=dp[i-1][j]+grid[i][j];
+
+                dp[i][j]=min(left,up);
+
+
+            }
+        }
+
+        return dp[row][col];
+    }
+
+
     int minPathSum(vector<vector<int>>& grid) {
 
         int m=grid.size();
@@ -24,7 +58,8 @@ public:
         vector<vector<int>>dp(m+1,vector<int>(n+1,-1));
 
 
-        return helper(grid,m-1,n-1,dp);
+        // return helper(grid,m-1,n-1,dp);
+        return tabular(grid,m-1,n-1);
 
 
 
