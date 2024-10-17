@@ -48,6 +48,43 @@ public:
         return dp[row][col];
     }
 
+    // now the only thing i can do to optimize this code further is to do the 
+    // space optimization bringing the 2d array to 1d
+
+    int so(vector<vector<int>>&grid,int row,int col){
+        // vector<vector<int>>dp(row+1,vector<int>(col+1,0));
+        vector<int>dp(col+1,0);
+
+        // lets come down to the main part which is the state diagram/equation
+        // dp[row][col]=min sum to reach this cell form 0,0 
+
+        dp[0]=grid[0][0];
+        for(int i=1;i<=col;i++){
+            dp[i]=dp[i-1]+grid[0][i];
+        }
+
+        // now that i have initialized the array it is time to set up the loop 
+        for(int i=1;i<=row;i++){
+            vector<int>temp(col+1,0);
+            temp[0]=dp[0]+grid[i][0];
+
+            for(int j=1;j<=col;j++){
+                // now my meoised code will come here 
+                int left=temp[j-1]+grid[i][j];
+                int up=dp[j]+grid[i][j];
+
+                temp[j]=min(left,up);
+
+
+
+            }
+            dp=temp;
+        }
+
+        return dp[col];
+    }
+
+
 
     int minPathSum(vector<vector<int>>& grid) {
 
@@ -59,7 +96,8 @@ public:
 
 
         // return helper(grid,m-1,n-1,dp);
-        return tabular(grid,m-1,n-1);
+        // return tabular(grid,m-1,n-1);
+        return so(grid,m-1,n-1);
 
 
 
