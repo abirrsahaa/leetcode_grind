@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/abirrsahaa/leetcode_grind/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/abirrsahaa/leetcode_grind/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0494-target-sum) |
 | [0658-find-k-closest-elements](https://github.com/abirrsahaa/leetcode_grind/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/abirrsahaa/leetcode_grind/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/abirrsahaa/leetcode_grind/tree/master/0883-car-fleet) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0494-target-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abirrsahaa/leetcode_grind/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abirrsahaa/leetcode_grind/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
