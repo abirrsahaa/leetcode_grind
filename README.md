@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/abirrsahaa/leetcode_grind/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abirrsahaa/leetcode_grind/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/abirrsahaa/leetcode_grind/tree/master/0874-backspace-string-compare) |
+| [1250-longest-common-subsequence](https://github.com/abirrsahaa/leetcode_grind/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/abirrsahaa/leetcode_grind/tree/master/1252-break-a-palindrome) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abirrsahaa/leetcode_grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
