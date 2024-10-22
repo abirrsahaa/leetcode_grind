@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abirrsahaa/leetcode_grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abirrsahaa/leetcode_grind/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/abirrsahaa/leetcode_grind/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abirrsahaa/leetcode_grind/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0416-partition-equal-subset-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abirrsahaa/leetcode_grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/abirrsahaa/leetcode_grind/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/abirrsahaa/leetcode_grind/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/abirrsahaa/leetcode_grind/tree/master/0441-arranging-coins) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abirrsahaa/leetcode_grind/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/abirrsahaa/leetcode_grind/tree/master/0120-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/abirrsahaa/leetcode_grind/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abirrsahaa/leetcode_grind/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0410-split-array-largest-sum) |
