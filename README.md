@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abirrsahaa/leetcode_grind/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/abirrsahaa/leetcode_grind/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/abirrsahaa/leetcode_grind/tree/master/1961-maximum-ice-cream-bars) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/abirrsahaa/leetcode_grind/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/abirrsahaa/leetcode_grind/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abirrsahaa/leetcode_grind/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/abirrsahaa/leetcode_grind/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/abirrsahaa/leetcode_grind/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/abirrsahaa/leetcode_grind/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -355,8 +357,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abirrsahaa/leetcode_grind/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0494-target-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
