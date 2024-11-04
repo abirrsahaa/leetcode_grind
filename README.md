@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abirrsahaa/leetcode_grind/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0064-minimum-path-sum) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abirrsahaa/leetcode_grind/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/abirrsahaa/leetcode_grind/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0090-subsets-ii) |
