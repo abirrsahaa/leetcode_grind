@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abirrsahaa/leetcode_grind/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/abirrsahaa/leetcode_grind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abirrsahaa/leetcode_grind/tree/master/0074-search-a-2d-matrix) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abirrsahaa/leetcode_grind/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/abirrsahaa/leetcode_grind/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/abirrsahaa/leetcode_grind/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abirrsahaa/leetcode_grind/tree/master/1993-sum-of-all-subset-xor-totals) |
