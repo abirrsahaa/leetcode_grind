@@ -14,6 +14,8 @@ public:
         }
         return dp[index][prev+1]= max(not_taken,taken);
     }
+    // need to do the memo part which is the most important 
+    
     int lengthOfLIS(vector<int>& nums) {
         vector<vector<int>>dp(nums.size()+1,vector<int>(nums.size()+1,-1));
         return helper(nums,0,-1,dp);
