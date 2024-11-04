@@ -1,28 +1,28 @@
-// main thing here is that i think i need to optimize it further 
-
 class Solution {
 public:
-    void helper(vector<int>&temp,vector<vector<int>>&ans,int index,int k,int n){
-        if(temp.size()==k){
-            ans.push_back(temp);
-            return;
-        }
-        if(index>n)return;
-        // include 
-        temp.push_back(index);
-        helper(temp,ans,index+1,k,n);
-        temp.pop_back();
-        helper(temp,ans,index+1,k,n);
-        // exclude
+void solve(int idx, vector<int>& nums, vector<vector<int>>& ans, vector<int>& res, int k) {
+    if (res.size() == k) {  // Base case: If res has k elements, it's a valid combination.
+        ans.push_back(res);  // Add res to the list of results.
+        return;
     }
-    vector<vector<int>> combine(int n, int k) {
 
-        // i would be needing 
-        // a answer vector , a temp vector, a index 
-        vector<int>temp;
-        vector<vector<int>>ans;
-        helper(temp,ans,1,k,n);
-        return ans;
-        
+        for (int i = idx; i < nums.size(); i++) {
+        res.push_back(nums[i]);  // Choose the current element.
+        solve(i + 1, nums, ans, res, k);  // Recurse with the next index.
+        res.pop_back();  // Backtrack by removing the last added element.
+    }
+}
+
+
+    vector<vector<int>> combine(int n, int k) {
+          vector<int> res;  // Temporary vector to store each combination.
+    vector<vector<int>> ans;  // Result vector to store all combinations.
+    vector<int> nums;  // List of numbers from 1 to n.
+    for (int i = 1; i <= n; i++) {
+        nums.push_back(i);  // Fill nums with values from 1 to n.
+    }
+
+    solve(0, nums, ans, res, k);  // Start recursive backtracking from index 0.
+    return ans;
     }
 };
